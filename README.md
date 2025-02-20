@@ -30,9 +30,9 @@
 
 ### Blog Page
 
-![Blog Page](public\images-ss\blogpage1.png)
-![Blog Page](public\images-ss\blogpage2.png)
-![Blog Page](public\images-ss\blogpage3.png)
+![Blog Page](/images-ss/blogpage1.png)
+![Blog Page](/images-ss/blogpage2.png)
+![Blog Page](/images-ss/blogpage3.png)
 
 ## Installation Guide
 
