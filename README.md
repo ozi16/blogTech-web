@@ -31,8 +31,6 @@
 ### Blog Page
 
 ![Blog Page](/images-ss/blogpage1.png)
-![Blog Page](/images-ss/blogpage2.png)
-![Blog Page](/images-ss/blogpage3.png)
 
 ## Installation Guide
 
