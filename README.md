@@ -22,6 +22,18 @@
 -   **Authentication:** Laravel Breeze / Laravel Auth
 -   **Notification:** SweetAlert2 for user notifications
 
+## Screenshots
+
+### Admin Dashboard
+
+![Admin Dashboard]()
+
+### Blog Page
+
+![Blog Page](public\images-ss\blogpage1.png)
+![Blog Page](public\images-ss\blogpage2.png)
+![Blog Page](public\images-ss\blogpage3.png)
+
 ## Installation Guide
 
 ### Prerequisites
